@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 24, 2018
+
+**Today's Progress**: Working on quiz app challenge of Thinkful's Frontend course. Collected the questions for quiz and implemented HTML wireframe of it.
+
+**Thoughts:** Selecting quiz topic and collecting quiz questions only took most of the time.
+
+**Link to work:**  https://cdharmateja.github.io/quiz_app/
+
 ### Day 3: January 23, 2018
 
 **Today's Progress**: Completed shopping list challenge of Thinkful's frontend course. Also learned about vector arrays, strings in C++.
