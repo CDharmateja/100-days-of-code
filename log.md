@@ -2,6 +2,12 @@
 
 ### Day 4: January 24, 2018
 
+**Today's Progress**: Continued working on quiz app
+
+**Thoughts:** Not much progress today
+
+**Link to work:**  https://cdharmateja.github.io/quiz_app/
+
 **Today's Progress**: Working on quiz app challenge of Thinkful's Frontend course. Collected the questions for quiz and implemented HTML wireframe of it.
 
 **Thoughts:** Selecting quiz topic and collecting quiz questions only took most of the time.
